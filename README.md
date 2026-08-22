@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sanjay9077/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
