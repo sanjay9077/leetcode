@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay9077/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sanjay9077/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/sanjay9077/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sanjay9077/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sanjay9077/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
