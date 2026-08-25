@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay9077/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/sanjay9077/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sanjay9077/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
