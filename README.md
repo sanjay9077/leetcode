@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjay9077/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sanjay9077/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/sanjay9077/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjay9077/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sanjay9077/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
