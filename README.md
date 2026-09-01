@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sanjay9077/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanjay9077/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sanjay9077/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
 | [2469-convert-the-temperature](https://github.com/sanjay9077/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sanjay9077/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanjay9077/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sanjay9077/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3945-digit-frequency-score](https://github.com/sanjay9077/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
