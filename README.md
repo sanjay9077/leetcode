@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay9077/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
+| [1816-truncate-sentence](https://github.com/sanjay9077/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sanjay9077/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sanjay9077/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanjay9077/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjay9077/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1816-truncate-sentence](https://github.com/sanjay9077/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sanjay9077/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
