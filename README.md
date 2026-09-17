@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/sanjay9077/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanjay9077/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sanjay9077/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sanjay9077/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3945-digit-frequency-score](https://github.com/sanjay9077/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/sanjay9077/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/sanjay9077/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sanjay9077/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
