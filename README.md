@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
 | [1816-truncate-sentence](https://github.com/sanjay9077/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sanjay9077/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/sanjay9077/leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sanjay9077/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sanjay9077/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanjay9077/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjay9077/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1816-truncate-sentence](https://github.com/sanjay9077/leetcode/tree/main/1816-truncate-sentence/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/sanjay9077/leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjay9077/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sanjay9077/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sanjay9077/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/sanjay9077/leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->
