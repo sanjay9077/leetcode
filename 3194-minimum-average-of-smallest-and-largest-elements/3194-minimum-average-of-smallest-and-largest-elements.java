@@ -1,0 +1,18 @@
+class Solution {
+    public double minimumAverage(int[] nums) {
+        Arrays.sort(nums);
+            int i=0;
+            int j=nums.length-1;
+          double m=100000;
+           while(i<j){
+              double sum=(nums[i]+nums[j])/2.0;
+               if(sum<m){
+                m=sum;
+               }
+                i++;
+                j--;
+            }
+    
+        return m;
+    }
+}
