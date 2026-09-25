@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay9077/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
+| [1550-three-consecutive-odds](https://github.com/sanjay9077/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1816-truncate-sentence](https://github.com/sanjay9077/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sanjay9077/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sanjay9077/leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
