@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/sanjay9077/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sanjay9077/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sanjay9077/leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/sanjay9077/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sanjay9077/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sanjay9077/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sanjay9077/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay9077/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/sanjay9077/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sanjay9077/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjay9077/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/sanjay9077/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sanjay9077/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/sanjay9077/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sanjay9077/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sanjay9077/leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/sanjay9077/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->
