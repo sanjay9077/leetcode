@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sanjay9077/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sanjay9077/leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/sanjay9077/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/sanjay9077/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sanjay9077/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sanjay9077/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sanjay9077/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/sanjay9077/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/sanjay9077/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
