@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/sanjay9077/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/sanjay9077/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sanjay9077/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sanjay9077/leetcode/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sanjay9077/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sanjay9077/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanjay9077/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
