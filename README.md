@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjay9077/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/sanjay9077/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/sanjay9077/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sanjay9077/leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/sanjay9077/leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sanjay9077/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sanjay9077/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1816-truncate-sentence](https://github.com/sanjay9077/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sanjay9077/leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/sanjay9077/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3340-check-balanced-string](https://github.com/sanjay9077/leetcode/tree/main/3340-check-balanced-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjay9077/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sanjay9077/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
