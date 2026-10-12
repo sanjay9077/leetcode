@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay9077/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/sanjay9077/leetcode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
