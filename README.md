@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sanjay9077/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/sanjay9077/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2469-convert-the-temperature](https://github.com/sanjay9077/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sanjay9077/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
