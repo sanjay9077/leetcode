@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/sanjay9077/leetcode/tree/main/0195-tenth-line/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0476-number-complement](https://github.com/sanjay9077/leetcode/tree/main/0476-number-complement/) | Easy |
 <!---LeetCode Topics End-->
