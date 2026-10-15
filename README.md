@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sanjay9077/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/sanjay9077/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/sanjay9077/leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
