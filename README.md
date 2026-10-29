@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/sanjay9077/leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/sanjay9077/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1729-find-followers-count](https://github.com/sanjay9077/leetcode/tree/main/1729-find-followers-count/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/sanjay9077/leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
