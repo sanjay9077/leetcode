@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/sanjay9077/leetcode/tree/main/3340-check-balanced-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjay9077/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sanjay9077/leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [4006-count-valid-prefixes](https://github.com/sanjay9077/leetcode/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sanjay9077/leetcode/tree/main/0062-unique-paths/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4006-count-valid-prefixes](https://github.com/sanjay9077/leetcode/tree/main/4006-count-valid-prefixes/) | Easy |
 <!---LeetCode Topics End-->
