@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjay9077/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/sanjay9077/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/sanjay9077/leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sanjay9077/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1816-truncate-sentence](https://github.com/sanjay9077/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sanjay9077/leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
