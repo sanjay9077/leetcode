@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay9077/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sanjay9077/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0414-third-maximum-number](https://github.com/sanjay9077/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0877-stone-game](https://github.com/sanjay9077/leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay9077/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/sanjay9077/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/sanjay9077/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sanjay9077/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0414-third-maximum-number](https://github.com/sanjay9077/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjay9077/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sanjay9077/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Database
