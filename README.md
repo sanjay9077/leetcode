@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/sanjay9077/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/sanjay9077/leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/sanjay9077/leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sanjay9077/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/sanjay9077/leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/sanjay9077/leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/sanjay9077/leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
